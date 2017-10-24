@@ -78,7 +78,7 @@ class OrderRobot:
             'orderVO.useMode': '2',
             'useUserIds': '91274',
             'useUserIds': '90967',
-            'orderVO.phone': '15150687373',
+            'orderVO.phone': '151********',
             'orderVO.remark': '',
             'validateCode': validateNum
         })
